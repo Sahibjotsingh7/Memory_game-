@@ -74,7 +74,7 @@ function App() {
 
   return (
     <div className="main-container">
-      <h1>Memory Game</h1>
+      <h1>Test Game</h1>
       <button className="restart-btn" onClick={restartGame}>
         Restart Game
       </button>
