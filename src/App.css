@@ -23,11 +23,11 @@ h1 {
 }
 
 .restart-btn {
-  background: #e19122;
+  background: #f8a0a0;
   border: none;
   padding: 8px 15px;
   margin-bottom: 20px;
-  color: white;
+  color: rgb(156, 200, 230);
   font-size: 16px;
   cursor: pointer;
   border-radius: 5px;
@@ -35,7 +35,7 @@ h1 {
 }
 
 .restart-btn:hover {
-  background: #e68a00;
+  background: #bcf89c;
 }
 
 .card-container {
